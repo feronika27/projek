@@ -1,0 +1,68 @@
+{
+  "profile": {
+    "name": "Kyran Natalie Runtukahu",
+    "role": "AI Engineer",
+    "photoKey": "profilePhoto",
+    "about": "AI Engineer yang berfokus pada pengembangan model machine learning dan deep learning untuk menyelesaikan masalah dunia nyata. Memiliki minat dalam data processing, model optimization, dan integrasi AI ke aplikasi web. Terus belajar dan mengeksplorasi teknologi terbaru dalam kecerdasan buatan.",
+
+    "address": "Manado, Sulawesi Utara, Indonesia",
+    "phoneNumber": "087851036857",
+
+    "contacts": [
+      {
+        "label": "GitHub",
+        "value": "nama_gitbuh",
+        "href": "link_github"
+      },
+      {
+        "label": "Instagram",
+        "value": "kyrannatalie",
+        "href": "link_ig"
+      },
+      {
+        "label": "Email",
+        "value": "kyranruntukahu@gmail.com",
+        "href": "mailto:kyranruntukahu@gmail.com"
+      }
+    ],
+
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Data Processing",
+      "HTML",
+      "CSS",
+      "React",
+      "Javascript",
+      "Vite",
+      "Git"
+    ],
+
+    "projects": [
+      {
+        "title": "Portfolio Website",
+        "description": "Portfolio website",
+        "tags": ["React", "Tailwind CSS", "Vite"],
+        "link": "link portofolio"
+      }
+    ],
+
+    "education": [
+      {
+        "college": "Klabat University",
+        "degree": "S1 – (Isi jurusan kamu)",
+        "year": "2023-2026"
+      }
+    ],
+
+    "experience": [
+      {
+        "position": "Frontend & AI Enthusiast – Personal Projects",
+        "company": "Self-Project / Independent",
+        "year": "2023–Present",
+        "details": "Membangun portfolio website, mempelajari dasar machine learning, dan mengimplementasikan komponen UI modern."
+      }
+    ]
+  }
+}
